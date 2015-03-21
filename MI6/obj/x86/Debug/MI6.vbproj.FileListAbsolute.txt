@@ -1,0 +1,20 @@
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\bin\Debug\MI6.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\bin\Debug\MI6.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\bin\Debug\MI6.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.Login.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.Resources.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.xml
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.Main.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.WriteFile.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.Blend.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.ShowMessage.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.OpenFile.resources
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\MI6\MI6\obj\x86\Debug\MI6.Alert.resources
+D:\Applcations\Dropbox\Projects\MI6\MI6\obj\x86\Debug\MI6.exe
+D:\Applcations\Dropbox\Projects\MI6\MI6\obj\x86\Debug\MI6.xml
+D:\Applcations\Dropbox\Projects\MI6\MI6\obj\x86\Debug\MI6.pdb
